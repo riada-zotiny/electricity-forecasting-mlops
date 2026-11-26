@@ -7,4 +7,4 @@ End-to-end MLOps pipeline to forecast French electricity consumption (RTE eCO2mi
 
 - RTE eCO2mix : https://www.rte-france.com/donnees-publications/eco2mix-donnees-temps-reel
 reel time data on electric, we will check the dataset of 5 years 
-- 
+-  Open-Meteo : https://open-meteo.com/en/docs
